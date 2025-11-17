@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   return (
-    <nav className="w-full flex justify-center mt-8 font-poppins">
+    <nav className="w-full flex justify-center mt-8 font-poppins px-4 sm:px-0">
       <div className="
         flex items-center justify-evenly
         bg-white
